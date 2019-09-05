@@ -23,6 +23,10 @@
 <!--  now show a personalized page .. user the "favLang" variable -->
 
 <h5>New Books for <%= favLang %></h5>
+
+<ul>
+	<li>LADSFSD</li>
+</ul>
 </body>
 
 </html>
